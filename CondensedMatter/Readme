@@ -1,0 +1,30 @@
+CondensedMatter - Honeycomb Bilayer Model 🧲
+Overview 📄
+
+This repository contains supplementary materials related to condensed matter physics research, focusing on phase transitions in antiferromagnetic Ising models on a frustrated bilayer hexagonal lattice.
+Content 📂
+Files
+
+    HoneycombBilayers_TFG_LeonardoRossato.pdf 📑
+        Description: This file is the undergraduate thesis titled "Transições de Fase no Modelo de Ising Antiferromagnético em uma Rede Hexagonal Bicamada Frustrada," by Leonardo Camargo Rossato. The thesis investigates the presence of a tricritical point using cluster mean field theory.
+        Details: The study incorporates thermodynamic quantities analysis such as free energy, order parameters, and specific heat, presenting phase diagrams and discussing critical phenomena in the Ising model on a bilayer hexagonal lattice.
+    Banner_120_x_90cm_NatalRN2023_LeonardoRossato.pdf 🖼️
+        Description: A banner presentation summarizing research outcomes related to the study on honeycomb bilayers and phase transitions, showcased at a conference in Natal, RN, in 2023.
+
+Key Concepts 🔑
+
+    Condensed Matter Physics: The area of physics that deals with the macroscopic physical properties of matter.
+    Ising Model: A mathematical model used to represent magnetic systems, crucial for understanding phase transitions.
+    Frustrated Systems: Systems where spins cannot simultaneously minimize their interaction energy, often due to the geometry of the lattice or competing interactions.
+    Phase Transitions: Changes between different states of matter, like from ferromagnetic to paramagnetic phases.
+
+Methodology 🧪
+
+    Cluster Mean Field Theory: An approach used in this research to model frustration effects and evaluate the nature of phase transitions.
+    Thermodynamic Quantities: The study examines parameters such as free energy and specific heat to understand the magnetic phases and identify tricritical behavior.
+
+Acknowledgments 🙏
+
+    Advisor: Prof. Mateus Schmidt
+    Institution: Universidade Federal de Santa Maria (UFSM), Brazil
+    Completion Year: 2022
