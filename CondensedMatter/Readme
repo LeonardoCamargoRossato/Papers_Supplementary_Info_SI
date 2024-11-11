@@ -1,30 +1,49 @@
-CondensedMatter - Honeycomb Bilayer Model 🧲
-Overview 📄
+🔬 Condensed Matter Physics
 
-This repository contains supplementary materials related to condensed matter physics research, focusing on phase transitions in antiferromagnetic Ising models on a frustrated bilayer hexagonal lattice.
-Content 📂
+    📝 Paper Title: The Ising Bilayer Honeycomb Lattice: A Cluster Mean-Field Study
+    👥 Authors: Leonardo C. Rossato, F. M. Zimmer, C. V. Morais, M. Schmidt
+    📚 Abstract: This study explores the frustrated Ising model on a bilayer honeycomb lattice using the cluster mean-field approach. We discuss phase transitions and the influence of frustration on thermodynamic properties, highlighting the model’s rich phenomenology and tricritical behavior​
+
+🏢 Published By: Elsevier, Physica A, DOI: 10.1016/j.physa.2023.128778
+📂 Supplementary Materials:
+
+    📝 Models: Detailed Hamiltonian and numerical methods.
+    📉 Graphs: 3D phase diagrams, entropy, and specific heat data.
+    🖼️ Figures: Comparisons between theoretical models and Monte Carlo simulations.
+
+📂 Content
 Files
 
-    HoneycombBilayers_TFG_LeonardoRossato.pdf 📑
-        Description: This file is the undergraduate thesis titled "Transições de Fase no Modelo de Ising Antiferromagnético em uma Rede Hexagonal Bicamada Frustrada," by Leonardo Camargo Rossato. The thesis investigates the presence of a tricritical point using cluster mean field theory.
-        Details: The study incorporates thermodynamic quantities analysis such as free energy, order parameters, and specific heat, presenting phase diagrams and discussing critical phenomena in the Ising model on a bilayer hexagonal lattice.
-    Banner_120_x_90cm_NatalRN2023_LeonardoRossato.pdf 🖼️
-        Description: A banner presentation summarizing research outcomes related to the study on honeycomb bilayers and phase transitions, showcased at a conference in Natal, RN, in 2023.
+    📑 HoneycombBilayers_TFG_LeonardoRossato.pdf
+    This document is Leonardo Camargo Rossato’s undergraduate thesis, titled Transições de Fase no Modelo de Ising Antiferromagnético em uma Rede Hexagonal Bicamada Frustrada. It serves as a supplementary resource for understanding the detailed methods and theoretical framework used in the research paper. The TFG provides:
+        A comprehensive explanation of the Cluster Mean Field Theory.
+        In-depth analysis of thermodynamic behavior and phase transitions.
+        Contextual information about the frustrated bilayer hexagonal lattice.
 
-Key Concepts 🔑
+    🖼️ Banner_120_x_90cm_NatalRN2023_LeonardoRossato.pdf
+    A banner presentation summarizing the research findings, emphasizing the exploration of phase transitions and tricritical points. This banner was presented at a conference in Natal, RN, in 2023.
 
-    Condensed Matter Physics: The area of physics that deals with the macroscopic physical properties of matter.
-    Ising Model: A mathematical model used to represent magnetic systems, crucial for understanding phase transitions.
-    Frustrated Systems: Systems where spins cannot simultaneously minimize their interaction energy, often due to the geometry of the lattice or competing interactions.
-    Phase Transitions: Changes between different states of matter, like from ferromagnetic to paramagnetic phases.
+🔑 Key Concepts
 
-Methodology 🧪
+    Condensed Matter Physics: Explores physical properties of matter in various states and phases.
+    Ising Model: A fundamental model for studying magnetic systems and understanding phase transitions.
+    Frustrated Systems: Systems where spin interactions prevent simultaneous energy minimization, leading to complex magnetic behavior.
+    Phase Transitions: Shifts between magnetic phases, influenced by temperature and frustration.
 
-    Cluster Mean Field Theory: An approach used in this research to model frustration effects and evaluate the nature of phase transitions.
-    Thermodynamic Quantities: The study examines parameters such as free energy and specific heat to understand the magnetic phases and identify tricritical behavior.
+🧪 Methodology
 
-Acknowledgments 🙏
+    Cluster Mean Field Theory: A powerful approximation method used to study complex phase transitions in frustrated systems.
+    Thermodynamic Analysis: Includes calculations of free energy, entropy, specific heat, and order parameters to map phase diagrams and identify critical phenomena.
+
+🙏 Acknowledgments
 
     Advisor: Prof. Mateus Schmidt
     Institution: Universidade Federal de Santa Maria (UFSM), Brazil
     Completion Year: 2022
+
+📬 Contact
+
+    ✉️ Corresponding Author: Leonardo C. Rossato, leo.c.rossato@gmail.com
+    🏫 Affiliation: Instituto de Física, UFRGS, Porto Alegre, Brazil
+
+Thank you for exploring our work. Feel free to reach out for any questions or collaboration inquiries!
