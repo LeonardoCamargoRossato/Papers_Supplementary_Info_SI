@@ -1,0 +1,24 @@
+Here’s the corrected and ordered summary for your README file:
+Files Description
+
+    MainCode0__ScatterPlots_Brazil.ipynb:
+        Description: Generates scatter plots to visualize and compare various economic and social indicators within Brazil.
+        Note: This file exceeds 25 MB. To access it, click on the link to the drive: [Link].
+
+    MainCode1__Americas_Comparation__ScatterPlots_and_Binscatter.ipynb:
+        Description: Compares socioeconomic data across the Americas using scatter plots and binscatter visualizations.
+
+    MainCode2__BasedOn_GCA_Gravitational_Clustering_Algorithm.ipynb:
+        Description: Implements a Gravitational Clustering Algorithm to study spatial and economic patterns in Brazil.
+        Note: This file exceeds 25 MB. To access it, click on the link to the drive: [Link].
+
+    MainCode3__Make_Comparative_Table_Graph.ipynb:
+        Description: Produces comparative tables and graphs to highlight trends across datasets.
+
+    DataEngineer_df_Brazil.ipynb:
+        Description: Processes and analyzes Brazilian socioeconomic data using custom transformations and visualization techniques.
+
+    DataEngineer_df_pop2010__(Brazil).ipynb:
+        Description: Focuses on population data from 2010 in Brazil, implementing demographic analysis and statistics.
+
+For files exceeding 25 MB, make sure to upload them to a cloud service and provide the respective download Google Drive link in the placeholders marked as: https://drive.google.com/drive/folders/1vJUyMiLkaSsfu9ZXJiszMUdrWOrn5i5C?usp=sharing.
