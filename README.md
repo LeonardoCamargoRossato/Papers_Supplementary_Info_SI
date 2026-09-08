@@ -1,51 +1,50 @@
-📊 Supplementary Information for Published Papers by L. C. Rossato
+<div align="center">
 
-Welcome to the repository containing supplementary data, diagrams, graphs, and code that support our published research articles. This repository includes additional materials that complement the findings and facilitate further understanding of our studies. Each subdirectory corresponds to a specific paper, detailing the tools and datasets used.
-🗂 Structure of the Repository
-1. 🌍 Econophysics
+# Research Software & Supplementary Materials
 
-    📝 Paper Title: Analysis of Socioeconomic Indicators in Brazil and the Americas Using Econophysics Techniques
-    👥 Authors: Leonardo C. Rossato, Sebastián Gonçalves, José Roberto Iglesias
-    📚 Abstract: Our research employs a multidisciplinary approach, integrating statistical mechanics and physical methods to analyze socioeconomic indicators across different countries. By leveraging graph theory and a variant of the Gravitational Clustering Algorithm, we reveal emergent patterns between HDI and population metrics in Brazil and other Latin American countries​
+**Reproducible code, datasets and computational artifacts supporting published research in econophysics and condensed-matter physics.**
 
-​
+![Tier](https://img.shields.io/badge/Portfolio-Tier%20B-2563EB?style=flat-square) ![Status](https://img.shields.io/badge/Status-Research-7C3AED?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-Reproducible%20Research-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-    .
-    🏢 Published By: Springer, EPJ-B, DOI: 10.1140/epjb/s10051-024-00766-5
-    📂 Supplementary Materials:
-        📊 Datasets: Socioeconomic data collected from reliable institutions.
-        💻 Code: Scripts for data analysis and visualization using Jupyter.
-        🖼️ Diagrams: Graphical representations, scatter plots, and correlation analyses.
+</div>
 
-2. 🔬 Condensed Matter Physics
+## Overview
 
-    📝 Paper Title: The Ising Bilayer Honeycomb Lattice: A Cluster Mean-Field Study
-    👥 Authors: Leonardo C. Rossato, F. M. Zimmer, C. V. Morais, M. Schmidt
-    📚 Abstract: This study explores the frustrated Ising model on a bilayer honeycomb lattice using the cluster mean-field approach. We discuss phase transitions and the influence of frustration on thermodynamic properties, highlighting the model’s rich phenomenology and tricritical behavior​
+This repository is the reproducibility layer for published research by Leonardo C. Rossato and collaborators. It collects supplementary datasets, analysis code, diagrams and computational outputs so that readers can inspect the methods behind the publications rather than relying only on the final figures in the papers.
 
-​
+## Research Areas
 
-    .
-    🏢 Published By: Elsevier, Physica A, DOI: 10.1016/j.physa.2023.128778
-    📂 Supplementary Materials:
-        📝 Models: Detailed Hamiltonian and numerical methods.
-        📉 Graphs: 3D phase diagrams, entropy, and specific heat data.
-        🖼️ Figures: Comparisons between theoretical models and Monte Carlo simulations.
+### Econophysics
+**Analysis of Socioeconomic Indicators in Brazil and the Americas Using Econophysics Techniques**  
+Leonardo C. Rossato, Sebastián Gonçalves, José Roberto Iglesias · *European Physical Journal B*  
+DOI: `10.1140/epjb/s10051-024-00766-5`
 
-🔮 Future Publications
+Materials include socioeconomic datasets, Jupyter-based analysis, visualization artifacts and graph/clustering analyses.
 
-    💡 Visual Analytics: Upcoming papers will discuss the interactive tools developed for the econophysics study, focusing on data visualization and user interface enhancements.
-    📈 Extensions in Econophysics: We will publish research that extends the findings of our initial econophysics paper, exploring broader implications and applications.
-    ⚛️ Quantum Computing: New publications will emerge in the field of Quantum Computing, related to the courses I am teaching and advancements in quantum educational methods.
+### Condensed Matter Physics
+**The Ising Bilayer Honeycomb Lattice: A Cluster Mean-Field Study**  
+Leonardo C. Rossato, F. M. Zimmer, C. V. Morais, M. Schmidt · *Physica A*  
+DOI: `10.1016/j.physa.2023.128778`
 
-🔧 Usage Recommendations
+Materials include model outputs, numerical results, phase diagrams and supporting figures for the frustrated Ising-system study.
 
-    We recommend using Jupyter for optimal visualization and interaction with the provided code. Interactive features, such as IPyWidgets, enhance the experience when analyzing the data.
-    💻 Installation Guide: Visit Jupyter.org for setup instructions.
+## Repository Structure
 
-📬 Contact
+- `Econophysics/` — data, code and outputs associated with socioeconomic-indicator research
+- `CondensedMatter/` — models, numerical results and figures associated with condensed-matter research
 
-    ✉️ Corresponding Author: Leonardo C. Rossato, leo.c.rossato@gmail.com
-    🏫 Affiliation: Instituto de Física, UFRGS, Porto Alegre, Brazil
+## Tech & Methods
 
-Thank you for exploring our work. Feel free to reach out for any questions or collaboration inquiries!
+`Python` · `Jupyter Notebook` · `Data Analysis` · `Scientific Computing` · `Graph Analysis` · `Statistical Physics`
+
+## Reproducibility
+
+For interactive exploration, open the notebooks in Jupyter and follow the paper-specific directories. Individual subprojects may contain their own datasets and dependencies.
+
+## Portfolio Classification
+
+**Tier B — Technical / Scientific Project.** This repository demonstrates reproducible computational research and research-software practice rather than a standalone end-user product.
+
+---
+
+**Leonardo Camargo Rossato** · Developer & Solution Architect · AI, Data & Deep Tech
